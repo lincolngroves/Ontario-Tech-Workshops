@@ -25,4 +25,15 @@ Day 2 Detailed Agenda
 	3:00 to 3:15			[ break ]	
 	3:15 to 4:45			Informal "office hours" + explore SAS tools with your own data in groups or on your own	
 
+Helpful Links:
+• SAS Viya for Learners | https://www.sas.com/en_us/software/viya-for-learners.html
+• SAS OnDemand for Academics | https://www.sas.com/en_us/software/on-demand-for-academics.html
 
+• SAS Communities | https://communities.sas.com/
+• SAS Educator Portal | https://www.sas.com/en_ca/learn/academic-programs/educators.html
+• SAS Skill Builder for Students | https://www.sas.com/en_ca/learn/academic-programs/students.html
+
+• SAS Academic Programs Workshops | https://www.sas.com/professor-workshops 
+• SAS Certification Prep | www.sas.com/certguidedprep 
+• SAS Webinar | SAS® Viya® for Learners: Find the Right Fit for Your Classroom | SAS
+• SAS Educator Conference | https://www.sas.com/en_us/events/23q1/summer-educator-conference.html
